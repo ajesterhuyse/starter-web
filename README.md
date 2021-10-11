@@ -9,3 +9,4 @@ This is for Udemy7, Git Complete
 
 ## Deployment
 You will need some web server, this is a web site.
+Most likely it will be a LAMP setup.
